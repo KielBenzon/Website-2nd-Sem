@@ -24,11 +24,11 @@ const products = [
     colors: [
       {
         code: "lightgray",
-        img: "./img/jordan.png",
+        img: "./img/fastskin Male.png",
       },
       {
         code: "green",
-        img: "./img/jordan2.png",
+        img: "./img/fastskin Female.png",
       },
     ],
   },
